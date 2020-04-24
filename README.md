@@ -1,0 +1,2 @@
+# mcserver
+Vanilla MC server 
